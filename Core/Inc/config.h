@@ -8,7 +8,7 @@
 #define SPEEDLIMIT_NORMAL 20
 #define SPEEDLIMIT_SPORT 50
 
-// motor current limits for invividual modes in mA
+// motor current limits for invividual modes in mA p
 // note that hacked firmware allows up to 55amps motor phase current
 #define PH_CURRENT_MAX_ECO 10000
 #define PH_CURRENT_MAX_NORMAL 15000
